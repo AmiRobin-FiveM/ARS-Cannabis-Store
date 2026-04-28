@@ -51,6 +51,9 @@ Here are some of the scripts I offer:
 - [ARS Armored Truck Robbery](https://amirobin.tebex.io/package/5827317)
 - [And More](https://amirobin.tebex.io/)
 
+## Docs
+- https://docs.amirobin.com/
+
 ## Feedback:
 
 I hope you enjoy this script and find it useful for your server. If you have any feedback or suggestions for improvement, please let me know in the comments below. I appreciate your input and support.
